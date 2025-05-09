@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ConsolePrPolymorf\ConsolePrPolymorf\bin\Debug\ConsolePrPolymorf.exe.config
+C:\Users\Asus\source\repos\ConsolePrPolymorf\ConsolePrPolymorf\bin\Debug\ConsolePrPolymorf.exe
+C:\Users\Asus\source\repos\ConsolePrPolymorf\ConsolePrPolymorf\bin\Debug\ConsolePrPolymorf.pdb
+C:\Users\Asus\source\repos\ConsolePrPolymorf\ConsolePrPolymorf\obj\Debug\ConsolePrPolymorf.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ConsolePrPolymorf\ConsolePrPolymorf\obj\Debug\ConsolePrPolymorf.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ConsolePrPolymorf\ConsolePrPolymorf\obj\Debug\ConsolePrPolymorf.exe
+C:\Users\Asus\source\repos\ConsolePrPolymorf\ConsolePrPolymorf\obj\Debug\ConsolePrPolymorf.pdb

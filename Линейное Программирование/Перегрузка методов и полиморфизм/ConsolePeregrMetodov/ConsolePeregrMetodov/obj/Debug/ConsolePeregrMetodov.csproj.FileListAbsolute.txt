@@ -1,0 +1,7 @@
+C:\Users\Asus\Documents\Колледж\3 курс\repos\ConsolePeregrMetodov\ConsolePeregrMetodov\bin\Debug\ConsolePeregrMetodov.exe.config
+C:\Users\Asus\Documents\Колледж\3 курс\repos\ConsolePeregrMetodov\ConsolePeregrMetodov\bin\Debug\ConsolePeregrMetodov.exe
+C:\Users\Asus\Documents\Колледж\3 курс\repos\ConsolePeregrMetodov\ConsolePeregrMetodov\bin\Debug\ConsolePeregrMetodov.pdb
+C:\Users\Asus\Documents\Колледж\3 курс\repos\ConsolePeregrMetodov\ConsolePeregrMetodov\obj\Debug\ConsolePeregrMetodov.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Колледж\3 курс\repos\ConsolePeregrMetodov\ConsolePeregrMetodov\obj\Debug\ConsolePeregrMetodov.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Колледж\3 курс\repos\ConsolePeregrMetodov\ConsolePeregrMetodov\obj\Debug\ConsolePeregrMetodov.exe
+C:\Users\Asus\Documents\Колледж\3 курс\repos\ConsolePeregrMetodov\ConsolePeregrMetodov\obj\Debug\ConsolePeregrMetodov.pdb
