@@ -1,0 +1,10 @@
+C:\Users\Asus\Documents\Колледж\3 курс\repos\Допупр1\bin\Debug\Допупр1.exe.config
+C:\Users\Asus\Documents\Колледж\3 курс\repos\Допупр1\bin\Debug\Допупр1.exe
+C:\Users\Asus\Documents\Колледж\3 курс\repos\Допупр1\bin\Debug\Допупр1.pdb
+C:\Users\Asus\Documents\Колледж\3 курс\repos\Допупр1\obj\Debug\Допупр1.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Колледж\3 курс\repos\Допупр1\obj\Debug\Допупр1.Form1.resources
+C:\Users\Asus\Documents\Колледж\3 курс\repos\Допупр1\obj\Debug\Допупр1.Properties.Resources.resources
+C:\Users\Asus\Documents\Колледж\3 курс\repos\Допупр1\obj\Debug\Допупр1.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Колледж\3 курс\repos\Допупр1\obj\Debug\Допупр1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Колледж\3 курс\repos\Допупр1\obj\Debug\Допупр1.exe
+C:\Users\Asus\Documents\Колледж\3 курс\repos\Допупр1\obj\Debug\Допупр1.pdb
