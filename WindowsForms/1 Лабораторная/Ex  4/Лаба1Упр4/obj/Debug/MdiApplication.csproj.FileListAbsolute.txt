@@ -1,0 +1,11 @@
+C:\Users\Asus\Documents\Колледж\3 курс\repos\Лаба1Упр4\bin\Debug\Лаба1Упр4.exe.config
+C:\Users\Asus\Documents\Колледж\3 курс\repos\Лаба1Упр4\bin\Debug\Лаба1Упр4.exe
+C:\Users\Asus\Documents\Колледж\3 курс\repos\Лаба1Упр4\bin\Debug\Лаба1Упр4.pdb
+C:\Users\Asus\Documents\Колледж\3 курс\repos\Лаба1Упр4\obj\Debug\MdiApplication.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Колледж\3 курс\repos\Лаба1Упр4\obj\Debug\Лаба1Упр4.ChildForm.resources
+C:\Users\Asus\Documents\Колледж\3 курс\repos\Лаба1Упр4\obj\Debug\Лаба1Упр4.ParentForm.resources
+C:\Users\Asus\Documents\Колледж\3 курс\repos\Лаба1Упр4\obj\Debug\Лаба1Упр4.Properties.Resources.resources
+C:\Users\Asus\Documents\Колледж\3 курс\repos\Лаба1Упр4\obj\Debug\MdiApplication.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Колледж\3 курс\repos\Лаба1Упр4\obj\Debug\MdiApplication.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Колледж\3 курс\repos\Лаба1Упр4\obj\Debug\Лаба1Упр4.exe
+C:\Users\Asus\Documents\Колледж\3 курс\repos\Лаба1Упр4\obj\Debug\Лаба1Упр4.pdb
