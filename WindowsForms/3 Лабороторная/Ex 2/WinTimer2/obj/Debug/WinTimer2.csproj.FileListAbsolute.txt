@@ -1,0 +1,10 @@
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinTimer2\bin\Debug\WinTimer2.exe.config
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinTimer2\bin\Debug\WinTimer2.exe
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinTimer2\bin\Debug\WinTimer2.pdb
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinTimer2\obj\Debug\WinTimer2.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinTimer2\obj\Debug\WinTimer2.Properties.Resources.resources
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinTimer2\obj\Debug\WinTimer2.UserControlTimer2.resources
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinTimer2\obj\Debug\WinTimer2.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinTimer2\obj\Debug\WinTimer2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinTimer2\obj\Debug\WinTimer2.exe
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinTimer2\obj\Debug\WinTimer2.pdb
