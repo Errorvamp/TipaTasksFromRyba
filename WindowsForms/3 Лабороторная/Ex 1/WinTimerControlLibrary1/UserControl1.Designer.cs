@@ -1,0 +1,57 @@
+﻿namespace WinTimerControlLibrary1
+{
+    partial class UserControl1
+    {
+        /// <summary>
+        /// Обязательная переменная конструктора.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Освободить все используемые ресурсы.
+        /// </summary>
+        /// <param name="disposing">истинно, если управляемый ресурс должен быть удален; иначе ложно.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Код, автоматически созданный конструктором компонентов
+
+        /// <summary>
+        /// Требуемый метод для поддержки конструктора — не изменяйте 
+        /// содержимое этого метода с помощью редактора кода.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.userControlTimer1 = new WinTimerControlLibrary1.UserControlTimer();
+            this.SuspendLayout();
+            // 
+            // userControlTimer1
+            // 
+            this.userControlTimer1.Location = new System.Drawing.Point(40, 34);
+            this.userControlTimer1.Name = "userControlTimer1";
+            this.userControlTimer1.Size = new System.Drawing.Size(161, 82);
+            this.userControlTimer1.TabIndex = 0;
+            this.userControlTimer1.TimeEnabled = true;
+            // 
+            // UserControl1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.userControlTimer1);
+            this.Name = "UserControl1";
+            this.Size = new System.Drawing.Size(800, 450);
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private UserControlTimer userControlTimer1;
+    }
+}

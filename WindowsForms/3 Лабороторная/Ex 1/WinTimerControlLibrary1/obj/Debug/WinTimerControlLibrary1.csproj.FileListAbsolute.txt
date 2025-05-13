@@ -1,0 +1,8 @@
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinTimerControlLibrary1\bin\Debug\WinTimerControlLibrary1.dll
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinTimerControlLibrary1\bin\Debug\WinTimerControlLibrary1.pdb
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinTimerControlLibrary1\obj\Debug\WinTimerControlLibrary1.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinTimerControlLibrary1\obj\Debug\WinTimerControlLibrary1.UserControlTimer.resources
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinTimerControlLibrary1\obj\Debug\WinTimerControlLibrary1.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinTimerControlLibrary1\obj\Debug\WinTimerControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinTimerControlLibrary1\obj\Debug\WinTimerControlLibrary1.dll
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinTimerControlLibrary1\obj\Debug\WinTimerControlLibrary1.pdb
