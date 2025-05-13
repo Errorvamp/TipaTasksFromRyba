@@ -1,0 +1,10 @@
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinButNum\bin\Release\WinButNum.exe.config
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinButNum\bin\Release\WinButNum.exe
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinButNum\bin\Release\WinButNum.pdb
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinButNum\obj\Release\WinButNum.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinButNum\obj\Release\WinButNum.Properties.Resources.resources
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinButNum\obj\Release\WinButNum.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinButNum\obj\Release\WinButNum.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinButNum\obj\Release\WinButNum.exe
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinButNum\obj\Release\WinButNum.pdb
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinButNum\obj\Release\WinButNum.Form1.resources
