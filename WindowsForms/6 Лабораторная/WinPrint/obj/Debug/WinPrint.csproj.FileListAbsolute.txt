@@ -1,0 +1,11 @@
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinPrint\bin\Debug\WinPrint.exe.config
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinPrint\bin\Debug\WinPrint.exe
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinPrint\bin\Debug\WinPrint.pdb
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinPrint\obj\Debug\WinPrint.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinPrint\obj\Debug\WinPrint.Form1.resources
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinPrint\obj\Debug\WinPrint.Form2.resources
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinPrint\obj\Debug\WinPrint.Properties.Resources.resources
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinPrint\obj\Debug\WinPrint.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinPrint\obj\Debug\WinPrint.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinPrint\obj\Debug\WinPrint.exe
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinPrint\obj\Debug\WinPrint.pdb
