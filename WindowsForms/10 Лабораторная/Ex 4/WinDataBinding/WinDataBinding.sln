@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinDataBinding", "WinDataBinding.csproj", "{47DF3A8A-767B-4EC1-832A-246D2B8A775D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47DF3A8A-767B-4EC1-832A-246D2B8A775D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47DF3A8A-767B-4EC1-832A-246D2B8A775D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47DF3A8A-767B-4EC1-832A-246D2B8A775D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47DF3A8A-767B-4EC1-832A-246D2B8A775D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11702545-9782-4186-A863-31E2C942A21E}
+	EndGlobalSection
+EndGlobal
