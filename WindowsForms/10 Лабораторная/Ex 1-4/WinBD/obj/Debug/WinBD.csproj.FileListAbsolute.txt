@@ -1,0 +1,10 @@
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinBD\bin\Debug\WinBD.exe.config
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinBD\bin\Debug\WinBD.exe
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinBD\bin\Debug\WinBD.pdb
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinBD\obj\Debug\WinBD.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinBD\obj\Debug\WinBD.Form1.resources
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinBD\obj\Debug\WinBD.Properties.Resources.resources
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinBD\obj\Debug\WinBD.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinBD\obj\Debug\WinBD.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinBD\obj\Debug\WinBD.exe
+C:\Users\Asus\Documents\Колледж\3 курс\repos\WinBD\obj\Debug\WinBD.pdb
