@@ -1,0 +1,7 @@
+C:\Users\Asus\Documents\Колледж\3 курс\repos\ConsoleFile\bin\Debug\ConsoleFile.exe.config
+C:\Users\Asus\Documents\Колледж\3 курс\repos\ConsoleFile\bin\Debug\ConsoleFile.exe
+C:\Users\Asus\Documents\Колледж\3 курс\repos\ConsoleFile\bin\Debug\ConsoleFile.pdb
+C:\Users\Asus\Documents\Колледж\3 курс\repos\ConsoleFile\obj\Debug\ConsoleFile.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Колледж\3 курс\repos\ConsoleFile\obj\Debug\ConsoleFile.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Колледж\3 курс\repos\ConsoleFile\obj\Debug\ConsoleFile.exe
+C:\Users\Asus\Documents\Колледж\3 курс\repos\ConsoleFile\obj\Debug\ConsoleFile.pdb
