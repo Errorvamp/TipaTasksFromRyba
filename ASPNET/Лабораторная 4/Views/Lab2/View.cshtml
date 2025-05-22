@@ -1,0 +1,13 @@
+﻿
+@model LW1.Models.Entities.Person
+<div class="row">
+    <div class="col-md-4">@Model.LastName @Model.FirstName @Model.Patronymic</div> 
+    <div class="col-md-2">@Model.Age</div>
+    <div class="col-md-2">@Html.ActionLink("подробнее", "РersonDetails", "Lab2",
+                         new { personId = Model.Id }, null)</div> 
+    <div class="col-md-2">@Html.ActionLink("редактировать","EditPerson",
+                        new { controller = "Lab2", personID = Model.Id })</div>
+    <div class="col-md-2">@Html.ActionLink("yдалить", "DeletePerson",
+                        new { controller = "Lab2", personID = Model.Id })</div>
+
+</div>

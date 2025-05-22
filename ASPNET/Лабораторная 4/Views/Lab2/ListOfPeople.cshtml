@@ -1,0 +1,32 @@
+﻿@model List<LW1.Models.Entities.Person>
+@{
+    ViewBag.Title = "ListOfPeople";
+}
+
+<h2>Список участников опроса</h2>
+<button type="button" class="btn btn-default" onclick="location.href='@Url.Action("CreatePerson", "Lab2" )'">
+    <span class="glyphicon glyphicon-plus"></span>Добавить человека
+</button>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th class="text-center">Наименование</th>
+            <th class="text-center">Возраст</th>
+            <th class="text-center">#</th>
+        </tr>
+    </thead>
+    <tbody>
+        <div class="row">
+            <div class="col-md-4"><strong>Наименование</strong></div>
+            <div class="col-md-2"><strong>Boзpacт</strong></div>
+            <div class="col-md-2"><strong>#</strong></div>
+            <div class="col-md-2"><strong>#</strong></div>
+            <div class="col-md-2"><strong>#</strong></div>
+        </div>
+        @foreach (var person in Model)
+        {
+            @{ Html.RenderPartial("PersonOverviewPartial", person); }
+        }
+    </tbody>
+
+</table>
